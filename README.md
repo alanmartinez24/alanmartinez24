@@ -4,16 +4,16 @@
 ## **_Contact Me_**
 
 <p align='center'>
-<a href="mailto:alanxmartin45@gmail.com" style="margin-right: 20px;">
+<a href="mailto:alanxmartin45@gmail.com" style="margin-right: 20px;" target="_blank">
   <img src="https://img.shields.io/badge/email me-%BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/alanmartinez24" style="margin-right: 20px;">
+<a href="https://linkedin.com/in/alanmartinez24" style="margin-right: 20px;" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0072B1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/alanxmartinez" style="margin-right: 20px;">
+<a href="https://twitter.com/alanxmartinez" style="margin-right: 20px;" target="_blank">
   <img src="https://img.shields.io/badge/twitter-00ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://t.me/alanxmartinez" style="margin-right: 20px;">
+<a href="https://t.me/alanxmartinez" style="margin-right: 20px;" target="_blank">
   <img src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
