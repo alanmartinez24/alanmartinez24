@@ -52,7 +52,7 @@
 - Specialized in Front-End with React + Web3, Back-End with NodeJs, Ruby on Rails, and Python.
 - DeFi protocols & experience: AMM, vAMM, Curve, Exchange, Derivatives Exchange.
 - NFT: OpenSea, IPFS.
-- Smart Contracts: Solidity(ERC20, ERC721, OpenZeppelin, Truffle, Hardhat), Rust.
+- Smart Contracts: Solidity(ERC20, ERC721, OpenZeppelin, Truffle, Hardhat), Rust, Go.
 - Blockchain Networks & Protocols: Ethereum, Polygon, Binance Smart Chain, Solana, L2 Solutions, Oracles.
 - Interesting Projects: UniSwap, dYdX, Polkadot, Avalanche.
 
