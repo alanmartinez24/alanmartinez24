@@ -13,11 +13,8 @@
 <a href="https://twitter.com/alanxmartinez" style="margin-right: 20px;">
   <img src="https://img.shields.io/badge/twitter-00ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://t.me/alanmartinez" style="margin-right: 20px;">
+<a href="https://t.me/alanxmartinez" style="margin-right: 20px;">
   <img src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://discord.gg/alanmartinez">
-  <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </p>
