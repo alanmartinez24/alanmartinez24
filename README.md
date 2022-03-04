@@ -28,6 +28,8 @@
     <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/ruby.png?raw=true" width="200"></td>
     <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/typescript.png?raw=true" width="200"></td>
     <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/solidity.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/rust.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/go.png?raw=true" width="200"></td>
     <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/bitcoin.png?raw=true" width="200"></td>
     <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/ethereum.png?raw=true" width="200"></td>
     <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/defi.png?raw=true" width="200"></td>
