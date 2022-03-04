@@ -23,18 +23,18 @@
 ## **_Skills_**
 <table>
   <tr>
-      <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/react.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/react.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/nodejs.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/ruby.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/typescript.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/solidity.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/bitcoin.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/ethereum.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/defi.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/metamask.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/dao.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/nft.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/alanmartinez24/alanmartinez24/blob/main/icons/github.png?raw=true" width="200"></td>
   </tr>
 </table>
 
@@ -166,13 +166,5 @@
 - Token Bridge, Block Explorer.
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 
-
-<p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/lizhming/productive-box"/>
-   <img src="https://img.shields.io/github/stars/lizhming/productive-box"/>
-   <img src="https://img.shields.io/github/forks/lizhming/productive-box"/>
-</p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhming&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmartinez24&show_icons=true&theme=radical)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer&text=Thank%20You!&fontAlignY=60)
